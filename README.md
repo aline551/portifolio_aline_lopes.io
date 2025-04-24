@@ -5,7 +5,7 @@ Este site foi criado para apresentar meus projetos, minhas habilidades e um pouc
 
 🔗 Acesse o site online: [aline551.github.io/portifolio_aline_lopes.io](https://aline551.github.io/portifolio_aline_lopes.io/)
 
----
+
 
 ## Tecnologias Utilizadas
 
@@ -57,27 +57,4 @@ Este site foi criado para apresentar meus projetos, minhas habilidades e um pouc
 ---
 
 
-## Como rodar localmente
-
-```bash
-# Clone este repositório
-git clone https://github.com/aline551/portifolio_aline_lopes.io.git
-
-# Acesse a pasta do projeto
-cd portifolio_aline_lopes.io
-
-# Abra o arquivo index.html no navegador
-
----
-
-## Como rodar localmente
-
-```bash
-# Clone este repositório
-git clone https://github.com/aline551/portifolio_aline_lopes.io.git
-
-# Acesse a pasta do projeto
-cd portifolio_aline_lopes.io
-
-# Abra o arquivo index.html no navegador
 
